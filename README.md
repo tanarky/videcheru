@@ -1,3 +1,4 @@
 # videcheru
 
 - kakizawa
+- yoshida
