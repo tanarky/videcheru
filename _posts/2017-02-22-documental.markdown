@@ -10,6 +10,7 @@ categories: AmazonPrimeVideo 松本人志
 - 藤門
 - だいのじ 大地
 - 野性爆弾
+- ジミー大西
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

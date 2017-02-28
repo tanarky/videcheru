@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "2017 Jリーグ開幕"
+date:   2017-02-27 00:00:00 +0900
+categories: DAZN
+---
+
+# Jリーグ開幕！
+
+DAZNはやばい
+
+- よく止まる
+- 画質よくない
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
