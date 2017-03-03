@@ -12,6 +12,8 @@ categories: AmazonPrimeVideo 松本人志
 - 野性爆弾
 - ジミー大西
 - 宮川大輔
+- マテンロウ　アントニー
+- ハチミツ二郎
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
