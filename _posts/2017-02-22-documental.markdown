@@ -11,6 +11,7 @@ categories: AmazonPrimeVideo 松本人志
 - だいのじ 大地
 - 野性爆弾
 - ジミー大西
+- 宮川大輔
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "ガッキー見たい"
+date:   2017-02-20 00:00:00 +0900
+categories: NHK
+---
+
+## ガッキー
+
+```
+function() {
+  var foo = 123;
+  return foo * 2;
+}
+```
+
+## 新垣結衣
+
+### 沖縄出身
+
+| Left align | Right align | Center align |
+|:-----------|------------:|:------------:|
+| This       |        This |     This     |
+| column     |      column |    column    |
+| will       |        will |     will     |
+| be         |          be |      be      |
+| left       |       right |    center    |
+| aligned    |     aligned |   aligned    |
+
+![エビフライトライアングル](http://i.imgur.com/Jjwsc.jpg "サンプル")
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
